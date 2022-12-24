@@ -1,0 +1,22 @@
+.home-cont {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  margin-top: 50px;
+}
+
+.about {
+  height: 120px;
+}
+
+..header {
+  color: #6d396b;
+  margin-top: 20px;
+}
+
+.header-about {
+  margin-top: 20px;
+  font-size: 18px;
+  color: #12022f;
+}
